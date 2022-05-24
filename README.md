@@ -1,2 +1,2 @@
-# sample-docs
+# Sample Docs
 Sample Docs
