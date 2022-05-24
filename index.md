@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (Sample Change)
 
 You can use the [editor on GitHub](https://github.com/Appwardllc/sample-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
